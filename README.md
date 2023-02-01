@@ -4,7 +4,7 @@
 
 ## 플레이 및 설명 영상
 - 클릭시 clipchamp에서 재생
-<a href="https://clipchamp.com/watch/199Rne4k9qM/embed" target="_blank"><img src="https://user-images.githubusercontent.com/104483761/215967548-e74ae4da-49d8-46a4-a977-c1aad5bee361.gif" width="100%"/></a>
+<a href="https://clipchamp.com/watch/199Rne4k9qM/embed" target=_blank><img src="https://user-images.githubusercontent.com/104483761/215967548-e74ae4da-49d8-46a4-a977-c1aad5bee361.gif" width="100%"/></a>
 
 ## 주요 기능 설명
 - 초기화 -> 배열 생성 -> 셔플
